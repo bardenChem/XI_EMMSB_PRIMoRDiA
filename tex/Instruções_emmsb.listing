@@ -1,0 +1,1 @@
+export PYTHONPATH=$HOME/pDynamo3_scripts:$PYTHONPATH

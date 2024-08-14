@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{grillo_primordia_2020}
+I.~B. Grillo, G.~A. Urquiza-Carvalho, and G.~B. Rocha, ``{PRIMoRDiA}: {A}
+  {Software} to {Explore} {Reactivity} and {Electronic} {Structure} in {Large}
+  {Biomolecules},'' {\em Journal of Chemical Information and Modeling},
+  vol.~60, pp.~5885--5890, Dec. 2020.
+
+\bibitem{grillo_quantum_2023}
+I.~B. Grillo, G.~A. Urquiza-Carvalho, and G.~B. Rocha, ``Quantum chemical
+  descriptors based on semiempirical methods for large biomolecules,'' {\em The
+  Journal of Chemical Physics}, vol.~158, p.~201001, May 2023.
+
+\bibitem{grillo_semiempirical_2020}
+I.~B. Grillo, G.~A. Urquiza‐Carvalho, E.~J.~F. Chaves, and G.~B. Rocha,
+  ``Semiempirical methods do {Fukui} functions: {Unlocking} a modeling
+  framework for biosystems,'' {\em Journal of Computational Chemistry},
+  vol.~41, pp.~862--873, Apr. 2020.
+
+\bibitem{rocha-santos_thermochemical_2021}
+A.~Rocha-Santos, E.~J.~F. Chaves, I.~B. Grillo, A.~S. De~Freitas, D.~A.~M.
+  Araújo, and G.~B. Rocha, ``Thermochemical and {Quantum} {Descriptor}
+  {Calculations} for {Gaining} {Insight} into {Ricin} {Toxin} {A} ({RTA})
+  {Inhibitors},'' {\em ACS Omega}, vol.~6, pp.~8764--8777, Apr. 2021.
+
+\bibitem{grillo_elucidating_2020}
+I.~B. Grillo, G.~A. Urquiza-Carvalho, J.~F.~R. Bachega, and G.~B. Rocha,
+  ``Elucidating {Enzymatic} {Catalysis} {Using} {Fast} {Quantum} {Chemical}
+  {Descriptors},'' {\em Journal of Chemical Information and Modeling}, vol.~60,
+  pp.~578--591, Feb. 2020.
+
+\bibitem{grillo_theoretical_2020}
+I.~B. Grillo, J.~F.~R. Bachega, L.~F. S.~M. Timmers, R.~A. Caceres, O.~N.
+  De~Souza, M.~J. Field, and G.~B. Rocha, ``Theoretical characterization of the
+  shikimate 5-dehydrogenase reaction from {Mycobacterium} tuberculosis by
+  hybrid {QC}/{MM} simulations and quantum chemical descriptors,'' {\em Journal
+  of Molecular Modeling}, vol.~26, p.~297, Nov. 2020.
+
+\end{thebibliography}

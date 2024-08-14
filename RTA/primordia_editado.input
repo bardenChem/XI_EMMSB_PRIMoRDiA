@@ -1,0 +1,4 @@
+#RT normal 
+#PR eband 3 extrard pymols 
+3 jp3_complex.aux true 0 0 jp3_complex.pdb mopac 0 0 0 0 EW 
+3 19m_complex.aux true 0 0 19m_complex.pdb mopac 0 0 0 0 EW	
