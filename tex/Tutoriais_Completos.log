@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  14 AUG 2024 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  15 AUG 2024 11:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1693,32 +1693,41 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 682--692
  []
 
 [30 <./net_mov_avg.png (PNG copy)> <./Hsoftness_mov_avg.png (PNG copy)>]
-[31] [32] (./Tutoriais_Completos.bbl) [33] (./Tutoriais_Completos.aux)
+[31] (./Tutoriais_Completos.bbl) [32] (./Tutoriais_Completos.aux)
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `Tutoriais_Completos.out' has not changed.
-(rerunfilecheck)             Checksum: B55D338E288ED5356C9EA9808CAE413B;2652.
+
+Package rerunfilecheck Warning: File `Tutoriais_Completos.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Tutoriais_Completos.out':
+(rerunfilecheck)             Before: B55D338E288ED5356C9EA9808CAE413B;2652
+(rerunfilecheck)             After:  65D2B77D4F4855979199D549B8838E79;2499.
  ) 
 Here is how much of TeX's memory you used:
- 35723 strings out of 478287
- 726026 string characters out of 5849289
- 1347408 words of memory out of 5000000
- 52953 multiletter control sequences out of 15000+600000
+ 35716 strings out of 478287
+ 726002 string characters out of 5849289
+ 1346408 words of memory out of 5000000
+ 52947 multiletter control sequences out of 15000+600000
  517612 words of font info for 125 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  100i,8n,150p,1369b,2264s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
-vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
-e/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk
-10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmtto10.pfb>
-Output written on Tutoriais_Completos.pdf (33 pages, 19781295 bytes).
+pdfTeX warning (dest): name{section.4} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvi
+ps/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/
+texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmtto10.pfb>
+Output written on Tutoriais_Completos.pdf (32 pages, 19780603 bytes).
 PDF statistics:
- 493 PDF objects out of 1000 (max. 8388607)
- 369 compressed objects within 4 object streams
- 137 named destinations out of 1000 (max. 500000)
+ 489 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
+ 136 named destinations out of 1000 (max. 500000)
  29039 words of extra memory for PDF output out of 29859 (max. 10000000)
 

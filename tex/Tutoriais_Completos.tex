@@ -153,7 +153,7 @@
 	
 	\hspace*{-\leftmarginwidth}
 	\begin{minipage}{\fullwidth}
-		\begin{commandshell}path/to/PRIMoRDiA_1.25v -f primordia\_editado.input\end{commandshell}
+		\begin{commandshell}path/to/PRIMoRDiA_1.25v -f primordia_editado.input\end{commandshell}
 	\end{minipage}
 	
 	Usamos o arquivo "primordia\_editado.input", que foi editado a partir do arquivo automático gerado pelo software.
@@ -380,7 +380,7 @@
 	
 	\hspace*{-\leftmarginwidth}
 	\begin{minipage}{\fullwidth}
-		\begin{commandshell}python3 Reaction\_TIM.py\end{commandshell}
+		\begin{commandshell}python3 Reaction_TIM.py\end{commandshell}
 	\end{minipage}
 
 	Com esse comando, todos as simulações já enumeradas serão executadas. No entanto, para esse tutorial, vamos fornecer os arquivos com os resultados das simulações até a simulação de varredura de coordenada de reação, que iremos acompanhar durante o mini-curso, devido a duração das simulações de otimizações de geometria. 
@@ -523,7 +523,7 @@ done\end{commandshell}
 	 
 	 \hspace*{-\leftmarginwidth}
 	 \begin{minipage}{\fullwidth}
-	 	\begin{commandshell}Rscript frame0\_reaction\_analysis.R\end{commandshell}
+	 	\begin{commandshell}Rscript frame0_reaction_analysis.R\end{commandshell}
 	 \end{minipage}
 	 
 	 Depois desse comando, o R deve produzir diversos arquivos de imagem com propriedades globais e locais para cada átomo da coordenada de reação. No primeiro gráfico da \autoref{fig_tut5_2} HOF é o calor de formação (heat of formation) que o Mopac calcula, e é uma das melhores formas de variação de energia em uma reação química simulada com método semi-empírico. Lembrado que todas essas propriedades são em referência ao primeiro valor, ou seja, cada ponto uma variação ao estado inicial. Nessas simulações uma estrutura que normalmente se deseja determinar é a estrutura de transição, que é determinada pelo ponto máximo de variação de energia, nesse caso na penúltima etapa. No entanto, nesse nosso calculo com PM6, a área quântica foi bem menor do que a utilizada no na nossa publicação e o HOF não foi um bom indicador do estado de transição. Já a energia eletrônica mostra um primeiro máximo no ponto zero da coordenada de reação, que é o momento que o próton está a mesma distância do carbono e do oxigênio. Em geral, os outros descritores globais indicam um aumento da moleza química (softness) e consequente diminuição da dureza (hardness), aumento do potencial químico e da eletrofilicidade total indicam que o sistema tende a receber transferência de elétrons.
@@ -690,11 +690,9 @@ done\end{commandshell}
 	 	\end{figure}
 	 \end{minipage}
 	 
- 
-	 
+  
 	 Há diversas análises que podemos fazer baseados nos descritores de reatividade, que por sua vez também são numerosos, para cada átomo envolvido e para cada resíduo. O PRIMoRDiA fornece uma forma automática de dispor todos esses resultados da forma mais pronta para análise possível. 
 	
-	\section{Considerações Finais}
 	
 	\newpage
 	\section*{Agradecimentos}
