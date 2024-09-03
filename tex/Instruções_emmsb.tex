@@ -103,7 +103,7 @@
 	
 	\hspace*{-\leftmarginwidth}
 	\begin{minipage}{\fullwidth}
-		\begin{commandshell}path/to/PRIMoRDiA_1.25v -f primordia\_editado.input\end{commandshell}
+		\begin{commandshell}path/to/PRIMoRDiA_1.25v -f primordia_editado.input\end{commandshell}
 	\end{minipage}
 
 	Para a análise dos resultados no Pymol, vamos primeiro abrir o software e executar o comando 
@@ -166,7 +166,7 @@
 	
 	\hspace*{-\leftmarginwidth}
 	\begin{minipage}{\fullwidth}
-		\begin{commandshell}python3 Reaction\_TIM.py\end{commandshell}
+		\begin{commandshell}python3 Reaction_TIM.py\end{commandshell}
 	\end{minipage}
 	
 	Outras atividades serão: abrir os gráficos de energia versus coordenada de reação, e visualizar o caminho de reação no Pymol. 
@@ -217,7 +217,7 @@
 	
 	\hspace*{-\leftmarginwidth}
 	\begin{minipage}{\fullwidth}
-		\begin{commandshell}Rscript frame0\_reaction\_analysis.R\end{commandshell}
+		\begin{commandshell}Rscript frame0_reaction_analysis.R\end{commandshell}
 	\end{minipage}
 
 	Depois de análisar esses gráficos, vamos gerar algumas visualizações dos descritores volumétricos no Pymol. Só abrir o programa e executar o seguinte comando
@@ -244,7 +244,7 @@
 
 	\hspace*{-\leftmarginwidth}
 	\begin{minipage}{\fullwidth}
-		\begin{commandshell}Rscript frame0\_reaction\_analysis.R\end{commandshell}
+		\begin{commandshell}Rscript frame0_reaction_analysis.R\end{commandshell}
 	\end{minipage}
 	
 	\section{Instalação dos Programas}
@@ -336,7 +336,7 @@ export PDYNAMO3_PARAMETERS=$PDYNAMO3_HOME/parameters
 export PDYNAMO3_PYTHONCOMMAND=python3
 export PDYNAMO3_SCRATCH=$PDYNAMO3_HOME/scratch 
 export PDYNAMO3_STYLE=$PDYNAMO3_PARAMETERS/ccsStyleSheets/defaultStyle.css
-
+export PYTHONPATH=$PDYNAMO3_HOME:$PYTHONPATH
 \end{shell}
 \end{minipage}	
 	

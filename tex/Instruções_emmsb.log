@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  13 AUG 2024 16:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  3 SEP 2024 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1539,10 +1539,10 @@ Package rerunfilecheck Info: File `Instruções_emmsb.out' has not changed.
 (rerunfilecheck)             Checksum: 76286EF83F4A9DD81F00BA60293DB281;1626.
  ) 
 Here is how much of TeX's memory you used:
- 35420 strings out of 478287
- 721625 string characters out of 5849289
+ 35417 strings out of 478287
+ 721675 string characters out of 5849289
  1348346 words of memory out of 5000000
- 52722 multiletter control sequences out of 15000+600000
+ 52718 multiletter control sequences out of 15000+600000
  510298 words of font info for 94 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  100i,8n,150p,1015b,2264s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1552,10 +1552,10 @@ hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mtto10.pfb>
-Output written on Instruções_emmsb.pdf (7 pages, 339372 bytes).
+Output written on Instruções_emmsb.pdf (7 pages, 339310 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 215 compressed objects within 3 object streams
- 101 named destinations out of 1000 (max. 500000)
+ 273 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
+ 102 named destinations out of 1000 (max. 500000)
  24802 words of extra memory for PDF output out of 24883 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  15 AUG 2024 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.22)  3 SEP 2024 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1201,7 +1201,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 65.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 65.
-<logo_primordia.pdf, id=85, 397.42809pt x 289.02309pt>
+<logo_primordia.pdf, id=81, 397.42809pt x 289.02309pt>
 File: logo_primordia.pdf Graphic file (type pdf)
 <use logo_primordia.pdf>
 Package pdftex.def Info: logo_primordia.pdf  used on input line 71.
@@ -1301,7 +1301,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 154--158
  []
 
 [6]
-<rta_pymols.png, id=175, 890.32625pt x 705.63625pt>
+<rta_pymols.png, id=170, 890.32625pt x 705.63625pt>
 File: rta_pymols.png Graphic file (type png)
 <use rta_pymols.png>
 Package pdftex.def Info: rta_pymols.png  used on input line 174.
@@ -1320,7 +1320,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 183--187
 []|  $[]$ 
  []
 
-<pymol_window.png, id=178, 865.2325pt x 731.73375pt>
+<pymol_window.png, id=173, 865.2325pt x 731.73375pt>
 File: pymol_window.png Graphic file (type png)
 <use pymol_window.png>
 Package pdftex.def Info: pymol_window.png  used on input line 194.
@@ -1331,7 +1331,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 190--200
  []
 
 [7 <./rta_pymols.png>]
-<pymol_window2.png, id=190, 878.28125pt x 733.74126pt>
+<pymol_window2.png, id=185, 878.28125pt x 733.74126pt>
 File: pymol_window2.png Graphic file (type png)
 <use pymol_window2.png>
 Package pdftex.def Info: pymol_window2.png  used on input line 206.
@@ -1342,7 +1342,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 202--212
  []
 
 [8 <./pymol_window.png>]
-<pymol_window3.png, id=195, 1111.15125pt x 830.10126pt>
+<pymol_window3.png, id=190, 1111.15125pt x 830.10126pt>
 File: pymol_window3.png Graphic file (type png)
 <use pymol_window3.png>
 Package pdftex.def Info: pymol_window3.png  used on input line 220.
@@ -1353,7 +1353,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 216--226
  []
 
 [9 <./pymol_window2.png>]
-<19m_hardness_window.png, id=201, 1077.02374pt x 773.89125pt>
+<19m_hardness_window.png, id=196, 1077.02374pt x 773.89125pt>
 File: 19m_hardness_window.png Graphic file (type png)
 <use 19m_hardness_window.png>
 Package pdftex.def Info: 19m_hardness_window.png  used on input line 235.
@@ -1374,7 +1374,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 244--248
 []|  $[]$ 
  []
 
-<19_complex_show_spheres.png, id=209, 1076.02pt x 770.88pt>
+<19_complex_show_spheres.png, id=204, 1076.02pt x 770.88pt>
 File: 19_complex_show_spheres.png Graphic file (type png)
 <use 19_complex_show_spheres.png>
 Package pdftex.def Info: 19_complex_show_spheres.png  used on input line 253.
@@ -1413,7 +1413,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 270--274
 []|  $[]$ 
  []
 
-<19m_ray.png, id=217, 1074.0125pt x 775.89874pt>
+<19m_ray.png, id=212, 1074.0125pt x 775.89874pt>
 File: 19m_ray.png Graphic file (type png)
 <use 19m_ray.png>
 Package pdftex.def Info: 19m_ray.png  used on input line 280.
@@ -1424,7 +1424,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 276--286
  []
 
 [12 <./19_complex_show_spheres.png>]
-<19m_hardness_improoved.png, id=227, 1551.7975pt x 798.985pt>
+<19m_hardness_improoved.png, id=222, 1551.7975pt x 798.985pt>
 File: 19m_hardness_improoved.png Graphic file (type png)
 <use 19m_hardness_improoved.png>
 Package pdftex.def Info: 19m_hardness_improoved.png  used on input line 293.
@@ -1435,7 +1435,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 289--299
  []
 
 [13 <./19m_ray.png> <./19m_hardness_improoved.png>]
-<mecanismo.png, id=239, 746.79pt x 616.3025pt>
+<mecanismo.png, id=234, 746.79pt x 616.3025pt>
 File: mecanismo.png Graphic file (type png)
 <use mecanismo.png>
 Package pdftex.def Info: mecanismo.png  used on input line 318.
@@ -1446,7 +1446,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 314--324
  []
 
 [14] [15 <./mecanismo.png>]
-<system_full.png, id=259, 2007.5pt x 1606.0pt>
+<system_full.png, id=254, 2007.5pt x 1606.0pt>
 File: system_full.png Graphic file (type png)
 <use system_full.png>
 Package pdftex.def Info: system_full.png  used on input line 348.
@@ -1456,7 +1456,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 344--354
 []|  $[]$ 
  []
 
-<system_prune.png, id=260, 2007.5pt x 1606.0pt>
+<system_prune.png, id=255, 2007.5pt x 1606.0pt>
 File: system_prune.png Graphic file (type png)
 <use system_prune.png>
 Package pdftex.def Info: system_prune.png  used on input line 359.
@@ -1467,7 +1467,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 355--365
  []
 
 [16 <./system_full.png>]
-<qcmm_opt.png, id=271, 2208.25pt x 1606.0pt>
+<qcmm_opt.png, id=266, 2208.25pt x 1606.0pt>
 File: qcmm_opt.png Graphic file (type png)
 <use qcmm_opt.png>
 Package pdftex.def Info: qcmm_opt.png  used on input line 370.
@@ -1487,7 +1487,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 381--385
  []
 
 [17 <./system_prune.png> <./qcmm_opt.png>]
-<ScanTraj.png, id=282, 462.528pt x 346.896pt>
+<ScanTraj.png, id=277, 462.528pt x 346.896pt>
 File: ScanTraj.png Graphic file (type png)
 <use ScanTraj.png>
 Package pdftex.def Info: ScanTraj.png  used on input line 409.
@@ -1498,7 +1498,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 405--415
  []
 
 [18]
-<energy.png, id=292, 462.528pt x 346.896pt>
+<energy.png, id=287, 462.528pt x 346.896pt>
 File: energy.png Graphic file (type png)
 <use energy.png>
 Package pdftex.def Info: energy.png  used on input line 422.
@@ -1544,7 +1544,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 524--528
  []
 
 [22]
-<global_rc1.png, id=334, 469.755pt x 361.35pt>
+<global_rc1.png, id=329, 469.755pt x 361.35pt>
 File: global_rc1.png Graphic file (type png)
 <use global_rc1.png>
 Package pdftex.def Info: global_rc1.png  used on input line 535.
@@ -1554,7 +1554,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 531--541
 []|  $[]$ 
  []
 
-<la_0.png, id=336, 578.16pt x 505.89pt>
+<la_0.png, id=331, 578.16pt x 505.89pt>
 File: la_0.png Graphic file (type png)
 <use la_0.png>
 Package pdftex.def Info: la_0.png  used on input line 549.
@@ -1565,7 +1565,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 545--555
  []
 
 [23 <./global_rc1.png>]
-<la_1.png, id=344, 578.16pt x 505.89pt>
+<la_1.png, id=339, 578.16pt x 505.89pt>
 File: la_1.png Graphic file (type png)
 <use la_1.png>
 Package pdftex.def Info: la_1.png  used on input line 563.
@@ -1576,7 +1576,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 559--569
  []
 
 [24 <./la_0.png>]
-<la_2.png, id=351, 578.16pt x 505.89pt>
+<la_2.png, id=346, 578.16pt x 505.89pt>
 File: la_2.png Graphic file (type png)
 <use la_2.png>
 Package pdftex.def Info: la_2.png  used on input line 576.
@@ -1596,7 +1596,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 586--589
 []|  $[]$ 
  []
 
-<frame0_descritores.png, id=359, 870.25125pt x 723.70375pt>
+<frame0_descritores.png, id=354, 870.25125pt x 723.70375pt>
 File: frame0_descritores.png Graphic file (type png)
 <use frame0_descritores.png>
 Package pdftex.def Info: frame0_descritores.png  used on input line 594.
@@ -1607,7 +1607,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 590--600
  []
 
 [26 <./la_2.png>]
-<frame0_homo.png, id=368, 861.2175pt x 724.7075pt>
+<frame0_homo.png, id=363, 861.2175pt x 724.7075pt>
 File: frame0_homo.png Graphic file (type png)
 <use frame0_homo.png>
 Package pdftex.def Info: frame0_homo.png  used on input line 605.
@@ -1637,7 +1637,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 621--625
 []|  $[]$ 
  []
 
-<frame0_hardness.png, id=376, 2609.75pt x 1606.0pt>
+<frame0_hardness.png, id=371, 2609.75pt x 1606.0pt>
 File: frame0_hardness.png Graphic file (type png)
 <use frame0_hardness.png>
 Package pdftex.def Info: frame0_hardness.png  used on input line 634.
@@ -1647,7 +1647,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 630--640
 []|  $[]$ 
  []
 
-<Eph_res.png, id=379, 325.215pt x 289.08pt>
+<Eph_res.png, id=374, 325.215pt x 289.08pt>
 File: Eph_res.png Graphic file (type png)
 <use Eph_res.png>
 Package pdftex.def Info: Eph_res.png  used on input line 649.
@@ -1658,7 +1658,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 645--655
  []
 
 [28 <./frame0_hardness.png>]
-<Nph_res.png, id=393, 325.215pt x 289.08pt>
+<Nph_res.png, id=388, 325.215pt x 289.08pt>
 File: Nph_res.png Graphic file (type png)
 <use Nph_res.png>
 Package pdftex.def Info: Nph_res.png  used on input line 661.
@@ -1671,7 +1671,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 657--667
 
 LaTeX Warning: Reference `fig_tut6_15' on page 29 undefined on input line 669.
 
-<net_mov_avg.png, id=396, 361.35pt x 289.08pt>
+<net_mov_avg.png, id=391, 361.35pt x 289.08pt>
 File: net_mov_avg.png Graphic file (type png)
 <use net_mov_avg.png>
 Package pdftex.def Info: net_mov_avg.png  used on input line 675.
@@ -1682,7 +1682,7 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 671--681
  []
 
 [29 <./Eph_res.png (PNG copy)> <./Nph_res.png (PNG copy)>]
-<Hsoftness_mov_avg.png, id=403, 361.35pt x 289.08pt>
+<Hsoftness_mov_avg.png, id=398, 361.35pt x 289.08pt>
 File: Hsoftness_mov_avg.png Graphic file (type png)
 <use Hsoftness_mov_avg.png>
 Package pdftex.def Info: Hsoftness_mov_avg.png  used on input line 686.
@@ -1697,37 +1697,28 @@ Overfull \hbox (2.43333pt too wide) in paragraph at lines 682--692
 
 LaTeX Warning: There were undefined references.
 
-
-Package rerunfilecheck Warning: File `Tutoriais_Completos.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Tutoriais_Completos.out':
-(rerunfilecheck)             Before: B55D338E288ED5356C9EA9808CAE413B;2652
-(rerunfilecheck)             After:  65D2B77D4F4855979199D549B8838E79;2499.
+Package rerunfilecheck Info: File `Tutoriais_Completos.out' has not changed.
+(rerunfilecheck)             Checksum: 65D2B77D4F4855979199D549B8838E79;2499.
  ) 
 Here is how much of TeX's memory you used:
- 35716 strings out of 478287
- 726002 string characters out of 5849289
- 1346408 words of memory out of 5000000
- 52947 multiletter control sequences out of 15000+600000
+ 35714 strings out of 478287
+ 725982 string characters out of 5849289
+ 1347409 words of memory out of 5000000
+ 52946 multiletter control sequences out of 15000+600000
  517612 words of font info for 125 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
  100i,8n,150p,1369b,2264s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.4} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvi
-ps/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/
-texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/
-lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts
-/type1/public/lm/lmtto10.pfb>
-Output written on Tutoriais_Completos.pdf (32 pages, 19780603 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/d
+vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/l
+m/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk
+10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmtto10.pfb>
+Output written on Tutoriais_Completos.pdf (32 pages, 19780579 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
- 366 compressed objects within 4 object streams
- 136 named destinations out of 1000 (max. 500000)
- 29039 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 484 PDF objects out of 1000 (max. 8388607)
+ 361 compressed objects within 4 object streams
+ 135 named destinations out of 1000 (max. 500000)
+ 29031 words of extra memory for PDF output out of 29859 (max. 10000000)
 
